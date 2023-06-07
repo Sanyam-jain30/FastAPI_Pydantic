@@ -1,0 +1,16 @@
+[
+  {
+      "assetClass": "Bond",
+      "counterparty": "Delux",
+      "instrumentId": "TSLA",
+      "instrumentName": "Mutual funds",
+      "tradeDateTime": "2022-12-27 08:26:49",
+      "tradeDetails": {
+          "buySellIndicator": "BUY",
+          "price": 12300.45,
+          "quantity": 100
+      },
+      "tradeId": "TRA1002",
+      "trader": "Bob smith"
+  }
+]
